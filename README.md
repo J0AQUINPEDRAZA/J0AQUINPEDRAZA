@@ -2,6 +2,7 @@
 - 📍 Actualmente vivo en Villa Maria, Córdoba, Argentina.
 - 💼 Soy Front End Developer.
 - 📚 Estoy estudiando para ser Full Stack Developer en CODERHOUSE.
+- 🧠 Tengo conocimientos en: HTML, CSS, SASS, BOOSTRAP, JAVASCRIPT, TYPESCRIPT, AXIOS, REACTJS, entre otros.
 - ⚡️ El lenguaje que mas me gusta es javaScript.
 - 💬 I can also speak English, my level is intermediate. 
 - 📫 Me puedes encontrar en las siguientes redes:
