@@ -2,9 +2,9 @@
 
 - 📍 Actualmente vivo en Villa Maria, Córdoba, Argentina.
 
-- 💼 Soy Front End Developer.
+- 💼 Soy Full Stack Developer.
 
-- 📚 Estoy estudiando para ser Full Stack Developer en CODERHOUSE.
+- 📚 Estoy especializado en Front End Developer.
 
 - 🧠 Tengo conocimientos en: <p align="left" dir="auto">
 
